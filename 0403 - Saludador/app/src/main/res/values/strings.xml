@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividades UD 4 - Act 3</string>
+    <string name="txt_saludo">¡Hola %s!</string>
+    <string name="txt_button">Saludar</string>
+    <string name="txt_nombre">Tu nombre aquí</string>
+
+    <string name="wrg_nombre">¡Introduce tu nombre!</string>
+</resources>

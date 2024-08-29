@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Actividades UD 4 - Act 5</string>
+    <string name="txt_correo">Indica un correo electrónico</string>
+    <string name="txt_correo2">Vuelve a escribir el correo electrónico</string>
+    <string name="btn_correo">Comprobar</string>
+
+    <string name="txt_iguales">Los correos son iguales</string>
+    <string name="txt_noIguales">Los correos no son iguales</string>
+
+    <string name="wrg_correo">¡Introduce un correo electrónico!</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Actividades UD 4 - Act 6</string>
+
+    <string name="txt_turno_manana">Turno de mañana</string>
+    <string name="txt_turno_tarde">Turno de tarde</string>
+
+    <string name="btn_matricula">Matricularse</string>
+
+    <string name="txt_ADA">Acceso a Datos</string>
+    <string name="txt_PMDM">Programación Multimedia y Dispositivos Móviles</string>
+    <string name="txt_PSP">Programación de Servicios y Procesos</string>
+    <string name="txt_FOL">Formación y Orientación Laboral</string>
+
+    <string name="txt_resultado">Resultado de la matrícula:\n</string>
+</resources>
